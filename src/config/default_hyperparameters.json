@@ -1,0 +1,5 @@
+{
+  "n_estimators": 350,
+  "max_samples": 1.0,
+  "max_features": 1.0
+}
